@@ -1,0 +1,9 @@
+[package]
+name = "diffie-hellman_test"
+version = "0.1.0"
+authors = ["nikos <nikos@mugsoft.io>"]
+edition = "2018"
+
+[dependencies]
+rand = "0"
+bigint = "4.4.1"
